@@ -51,6 +51,8 @@ Following the steps of a build methodology:
 
 ## Submission
 
-Push the assignment files to the GitHub Classroom assignment before the due date.
+Push the assignment files to the GitHub Classroom assignment before the due date. Follow best naming practices! 
+
+Github Link: https://classroom.github.com/a/1C89KjGR
 
 **LATE ASSIGNMENTS WILL NOT BE ACCEPTED!**
